@@ -1,7 +1,7 @@
 # AlgoV
 
 A searching and sorting algorithm visualizer made using Flutter.
-
+[Download](https://github.com/rohitsk14/Algorithm-visualizer/releases/download/v1.0.0/AlgoV.apk)
 
 ## Build With
 
